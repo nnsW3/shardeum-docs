@@ -26,7 +26,7 @@ Shows general details for a transaction.
 
 ## View Account Data
 
-Select an account on the Shardeum Explorer to see all details for that account.
+Select an account on the Shardeum Explorer to see all the details for that account.
 
 ![explorer_transactions](/img/explorer/transactions1.png)
 
