@@ -21,7 +21,7 @@ https://www.okx.com/web3
 
 BitKeep wallet is a multichain wallet.
 By importing existing wallets or creating new ones, you may start managing your crypto portfolio cross chain.
-For your crypto asset security, BitKeep adopts a special DESM (Double Encryption Storage Mechanism). Your assets will be intact even your device gets stolen. 
+For your crypto asset security, BitKeep adopts a special DESM (Double Encryption Storage Mechanism). Your assets will be intact even if your device gets stolen. 
 
 https://bitkeep.com/en/index
 
