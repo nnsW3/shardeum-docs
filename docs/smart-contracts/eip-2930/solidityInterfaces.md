@@ -53,7 +53,7 @@ Deposit (Wrap): SHM => WSHM.
 
 Withdraw (Unwrap): WSHM => SHM.
 
-Using a WSHM interface, we can create a Solidity 0.8.0 contract which can interact with WSHM (Solidity 0.4.0).
+Using a WSHM interface, we can create a Solidity 0.8.0 contract that can interact with WSHM (Solidity 0.4.0).
 
 ## WSHM Solidity 0.4.0
 
