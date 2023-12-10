@@ -44,7 +44,7 @@ Community and developers can easily find the list of projects that are building 
 
 ## How can I promote the project I am building on Shardeum to its community and other developers?
 
-We encourage you to fill up and submit this simple [form](https://forms.gle/BFLXtLn9Urq9KH998) which will be transposed into a spreadsheet in raw form for easy consumption by the Shardeum community and other devs building on the network. This spreadsheet is stored on the project’s google drive which is open to public.
+We encourage you to fill up and submit this simple [form](https://forms.gle/BFLXtLn9Urq9KH998) which will be transposed into a spreadsheet in raw form for easy consumption by the Shardeum community and other devs building on the network. This spreadsheet is stored on the project’s google drive which is open to the public.
 
 ## RPC is slow. Is there any ongoing issue?
 
