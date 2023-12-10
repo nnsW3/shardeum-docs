@@ -108,7 +108,7 @@ Terminal
 We will use curl in this tutorial to download files:
 
 :::info
-Mac comes with curl, so we will install homebrew with curl (which will handle handle packages like apt in Linux).
+Mac comes with curl, so we will install homebrew with curl (which will handle packages like apt in Linux).
 :::
 
 <Tabs groupId="operating-systems">
