@@ -51,7 +51,7 @@ Memory (run time, cheap):
 
 -MLOAD (3 gas)
 
-Here is a smart contract which uses Assembly (Yul in Solidity) to access these opcodes:
+Here is a smart contract that uses Assembly (Yul in Solidity) to access these opcodes:
 
 <Tabs>
   <TabItem value="solidity" label="Solidity" default>
