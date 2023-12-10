@@ -53,7 +53,7 @@ https://chaindrop.org/?chainid=8082&token=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 ![chaindrop_2](/img/chaindrop/chaindrop_2.jpg)
 
-2. Enter valid wallet address and complete the captcha and click send to receive tokens.
+2. Enter a valid wallet address and complete the captcha and click send to receive tokens.
 
 ![chaindrop_3](/img/chaindrop/chaindrop_3.jpg)
 
